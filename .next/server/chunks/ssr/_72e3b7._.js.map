@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://D%3A/projectPixelStar/open-react-template/components/modal-video.tsx"],"sourcesContent":["\"use client\";\r\n\r\nimport { useState, useRef } from \"react\";\r\n\r\n\r\nexport default function ModalVideo({\r\n}: o) {\r\n  const [modalOpen, setModalOpen] = useState<boolean>(false);\r\n  const videoRef = useRef<HTMLVideoElement>(null);\r\n\r\n  return (\r\n    <></>\r\n)}"],"names":[],"mappings":";;;;AAEA;AAFA;;;AAKe,SAAS,WAAW,EAC/B;IACF,MAAM,CAAC,WAAW,aAAa,GAAG,CAAA,GAAA,qMAAA,CAAA,WAAQ,AAAD,EAAW;IACpD,MAAM,WAAW,CAAA,GAAA,qMAAA,CAAA,SAAM,AAAD,EAAoB;IAE1C,qBACE;AACH"}},
+    {"offset": {"line": 20, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

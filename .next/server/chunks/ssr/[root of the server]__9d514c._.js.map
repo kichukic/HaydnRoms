@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["file://D%3A/projectPixelStar/open-react-template/components/ui/header.tsx"],"sourcesContent":["\"use client\";\r\n\r\nimport Logo from \"./logo\";\r\n\r\nexport default function Header() {\r\n  return (\r\n    <header className=\"z-30 mt-2 w-full md:mt-5\">\r\n      <div className=\"mx-auto max-w-6xl px-4 sm:px-6\">\r\n      <div className=\"flex flex-1 items-center\">\r\n            <Logo />\r\n          </div>\r\n      </div>\r\n    </header>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;AAEA;AAFA;;;AAIe,SAAS;IACtB,qBACE,8OAAC;QAAO,WAAU;kBAChB,cAAA,8OAAC;YAAI,WAAU;sBACf,cAAA,8OAAC;gBAAI,WAAU;0BACT,cAAA,8OAAC,yHAAA,CAAA,UAAI;;;;;;;;;;;;;;;;;;;;AAKjB"}},
+    {"offset": {"line": 51, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
